@@ -1,15 +1,15 @@
 # Stock Market Data Pipeline
 
-This project is a data pipeline that collects stock market data using the YFinance library, streams it to Kafka, processes the data using Python, stores it in BigQuery, and creates reports in Looker Studio. Additionally, it includes logging functionality to monitor the pipeline.
+This project is a data pipeline that collects stock market data using the YFinance library, streams it to Kafka, processes the data using Python, stores it in BigQuery, and creates reports in Power BI. Additionally, it includes logging functionality to monitor the pipeline.
 
 ## Prerequisites
 
 Before you begin, ensure you have met the following requirements:
 
-- Python 3.x installed
+- Python +3.9 installed
 - Access to a Kafka cluster
 - Access to Google BigQuery
-- Access to Looker Studio
+- Access to Power BI
 - yfinance library for collecting stock data
 
 ## Setup
