@@ -38,19 +38,6 @@ Data processing is a critical step in the pipeline. A Python application is buil
 
 Processed data is stored in Google BigQuery, a highly scalable and performant data warehousing solution. The project provides guidance on setting up BigQuery, creating datasets, and defining tables for efficient data storage.
 
-### 6. Creating Reports with Looker Studio
-
-Looker Studio is integrated with BigQuery to create insightful reports and dashboards. This allows users to visualize and analyze stock market data with ease.
-
-Here's the link to our Dashboard with LookerStudio First time trying this platform : https://lookerstudio.google.com/reporting/112e1891-2057-48c5-98c6-2535cc84d23b
-
-![image](https://github.com/Frandiiile/Stock-Market-Real-Time-Analysis/assets/95171284/3540b2af-3a3d-4aea-8d96-ffed001f9401)
-
-You can choose indvidual Stocks to analyze : 
-
-![image](https://github.com/Frandiiile/Stock-Market-Real-Time-Analysis/assets/95171284/289f3ee7-b8fa-434d-b02b-09c6daf7005f)
-
-
 
 ## Acknowledgments
 
